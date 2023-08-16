@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ClaireAgaba
 - 👀 I’m interested in cooking and programming
-- 🌱 I’m currently learning as many programming languages as i can
-- 💞️ I’m looking to collaborate on esl's erp system
+- 🌱 I can't stop learning python
+- 💞️ I collaborated on esl's erp system
+- I'm currently collaborating on UBTEB's examinations system
 - 📫 How to reach me agabaclaire70@gmail.com
 
 <!---
